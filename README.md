@@ -24,7 +24,7 @@ Using Git
 
 ```
 $ git clone https://github.com/raulmaulidhino-dev/bugar-test-excel-vba.git
-$ cd bugar-test-excel-vba
+$ cd bugar-test-excel-vba/src
 ```
 
 Or you can also install the zip file and unzip it after installation.
@@ -33,7 +33,7 @@ Or you can also install the zip file and unzip it after installation.
 ## Usage
 
 
-To use the app, you can open the Excel with Macro file named `BugarTest.xlsm` in your Microsoft Excel and start experimenting!
+To use the app, you can open the Excel with Macro file named `BugarTest.xlsm` inside `src` folder in your Microsoft Excel and start experimenting!
 
 
 ### Exporting Components
