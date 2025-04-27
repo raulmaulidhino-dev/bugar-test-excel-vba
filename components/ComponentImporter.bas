@@ -4,7 +4,7 @@ Sub ImportAllVBAComponents()
     Dim fileName As String
 
     ' Folder where your exported modules are
-    importPath = ThisWorkbook.Path & "\components\" ' You can change the folder path based on your needs
+    importPath = ThisWorkbook.Path & "\components\"
     
     If Dir(importPath, vbDirectory) = "" Then
         MsgBox "The folder path is not found!", vbExclamation

@@ -4,7 +4,7 @@ Sub ExportAllVBAComponents()
     Dim exportPath As String
 
     ' Where you want to save exported files
-    exportPath = ThisWorkbook.Path & "\exported_components\" ' You can change the folder path based on your needs
+    exportPath = ThisWorkbook.Path & "\ExportedComponents\"
 
     ' Create the folder if it doesn't exist
     If Dir(exportPath, vbDirectory) = "" Then
