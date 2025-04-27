@@ -1,4 +1,4 @@
-# BugarTest
+# BugarTest 💪 🏃 📊
 
 BugarTest is a simple, interactive and dynamic physical fitness test app created with [Excel VBA App](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office) and [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel).
 
@@ -57,6 +57,9 @@ To import all VBA components in a folder, please follow these steps:
 5. Before running the file, make sure there is a folder named `components` (or you can change it in the file as you like) containing the VBA components (in .bas or .frm [with .frx] format)
 6. Press <code>F5</code> to run the importing process
 7. After the process finished, you will get a window telling you that the files were imported successfully!
+
+
+--
 
 
 Made with ❤️ in Indonesia 🇮🇩
