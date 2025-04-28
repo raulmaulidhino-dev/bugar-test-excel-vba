@@ -1,6 +1,13 @@
+![BugarTest Logo](./assets/img/BugarTest_Logo.png)
+
+
 # BugarTest 💪 🏃 📊
 
+
+
+
 BugarTest is a simple, interactive and dynamic physical fitness test app created with [Excel VBA App](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office) and [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel).
+
 
 ## Getting Started
 
@@ -60,6 +67,11 @@ To import all VBA components in a folder, please follow these steps:
 
 
 --
+
+## App Logo
+
+
+<img src="./assets/img/BugarTest_Logo-Square.png" style="min-width: 1360px; width: 50%;" />
 
 
 Made with ❤️ in Indonesia 🇮🇩
