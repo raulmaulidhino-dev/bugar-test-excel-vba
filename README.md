@@ -1,4 +1,4 @@
-![BugarTest Logo](./assets/img/BugarTest_Logo.png)
+![BugarTest Logo](./docs/assets/img/BugarTest_Logo.png)
 
 
 # BugarTest 💪 🏃 📊
@@ -71,7 +71,7 @@ To import all VBA components in a folder, please follow these steps:
 ## App Logo
 
 
-<img src="./assets/img/BugarTest_Logo-Square.png" style="min-width: 1360px; width: 50%;" />
+<img src="./docs/assets/img/BugarTest_Logo-Square.png" style="min-width: 1360px; width: 50%;" />
 
 
 Made with ❤️ in Indonesia 🇮🇩
