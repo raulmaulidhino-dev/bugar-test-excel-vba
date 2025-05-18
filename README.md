@@ -30,8 +30,8 @@ A step by step guide that will tell you how to get the development environment u
 Using Git
 
 ```
-$ git clone https://github.com/raulmaulidhino-dev/bugar-test-excel-vba.git
-$ cd bugar-test-excel-vba/src
+git clone https://github.com/raulmaulidhino-dev/bugar-test-excel-vba.git
+cd bugar-test-excel-vba/src
 ```
 
 Or you can also install the zip file and unzip it after installation.
